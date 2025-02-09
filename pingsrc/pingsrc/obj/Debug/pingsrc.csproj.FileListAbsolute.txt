@@ -1,0 +1,14 @@
+C:\Users\MoloM\Documents\SharpDevelop Projects\pingsrc\pingsrc\obj\Debug\pingsrc.csprojResolveAssemblyReference.cache
+C:\Users\MoloM\Documents\SharpDevelop Projects\pingsrc\pingsrc\obj\Debug\pingsrc.UserControl1.resources
+C:\Users\MoloM\Documents\SharpDevelop Projects\pingsrc\pingsrc\obj\Debug\pingsrc.csproj.GenerateResource.Cache
+C:\Users\MoloM\Documents\SharpDevelop Projects\pingsrc\pingsrc\bin\Debug\pingsrc.dll
+C:\Users\MoloM\Documents\SharpDevelop Projects\pingsrc\pingsrc\bin\Debug\pingsrc.pdb
+C:\Users\MoloM\Documents\SharpDevelop Projects\pingsrc\pingsrc\obj\Debug\pingsrc.dll
+C:\Users\MoloM\Documents\SharpDevelop Projects\pingsrc\pingsrc\obj\Debug\pingsrc.pdb
+D:\Programs\DEVELOPMENT\pingsrc\pingsrc\bin\Debug\pingsrc.dll
+D:\Programs\DEVELOPMENT\pingsrc\pingsrc\bin\Debug\pingsrc.pdb
+D:\Programs\DEVELOPMENT\pingsrc\pingsrc\obj\Debug\pingsrc.csprojResolveAssemblyReference.cache
+D:\Programs\DEVELOPMENT\pingsrc\pingsrc\obj\Debug\pingsrc.UserControl1.resources
+D:\Programs\DEVELOPMENT\pingsrc\pingsrc\obj\Debug\pingsrc.csproj.GenerateResource.Cache
+D:\Programs\DEVELOPMENT\pingsrc\pingsrc\obj\Debug\pingsrc.dll
+D:\Programs\DEVELOPMENT\pingsrc\pingsrc\obj\Debug\pingsrc.pdb

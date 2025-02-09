@@ -1,0 +1,20 @@
+C:\Users\MoloM\Documents\SharpDevelop Projects\pingsrc\pingator\bin\Debug\pingator.exe.config
+C:\Users\MoloM\Documents\SharpDevelop Projects\pingsrc\pingator\bin\Debug\pingator.exe
+C:\Users\MoloM\Documents\SharpDevelop Projects\pingsrc\pingator\bin\Debug\pingator.pdb
+C:\Users\MoloM\Documents\SharpDevelop Projects\pingsrc\pingator\bin\Debug\pingsrc.dll
+C:\Users\MoloM\Documents\SharpDevelop Projects\pingsrc\pingator\bin\Debug\pingsrc.pdb
+C:\Users\MoloM\Documents\SharpDevelop Projects\pingsrc\pingator\obj\Debug\pingator.csprojResolveAssemblyReference.cache
+C:\Users\MoloM\Documents\SharpDevelop Projects\pingsrc\pingator\obj\Debug\pingator.MainForm.resources
+C:\Users\MoloM\Documents\SharpDevelop Projects\pingsrc\pingator\obj\Debug\pingator.csproj.GenerateResource.Cache
+C:\Users\MoloM\Documents\SharpDevelop Projects\pingsrc\pingator\obj\Debug\pingator.exe
+C:\Users\MoloM\Documents\SharpDevelop Projects\pingsrc\pingator\obj\Debug\pingator.pdb
+D:\Programs\DEVELOPMENT\pingsrc\pingator\obj\Debug\pingator.csprojResolveAssemblyReference.cache
+D:\Programs\DEVELOPMENT\pingsrc\pingator\obj\Debug\pingator.MainForm.resources
+D:\Programs\DEVELOPMENT\pingsrc\pingator\obj\Debug\pingator.csproj.GenerateResource.Cache
+D:\Programs\DEVELOPMENT\pingsrc\pingator\obj\Debug\pingator.exe
+D:\Programs\DEVELOPMENT\pingsrc\pingator\bin\Debug\pingator.exe.config
+D:\Programs\DEVELOPMENT\pingsrc\pingator\bin\Debug\pingator.exe
+D:\Programs\DEVELOPMENT\pingsrc\pingator\bin\Debug\pingator.pdb
+D:\Programs\DEVELOPMENT\pingsrc\pingator\bin\Debug\pingsrc.dll
+D:\Programs\DEVELOPMENT\pingsrc\pingator\bin\Debug\pingsrc.pdb
+D:\Programs\DEVELOPMENT\pingsrc\pingator\obj\Debug\pingator.pdb
